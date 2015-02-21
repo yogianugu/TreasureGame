@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Unlock The Treasure Box!</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_game_label">New Game</string>
+    <string name="uncover_label">UnCover</string>
+    <string name="find_label">Find</string>
+    <string name="try_again_label">Try again</string>
+    <string name="exit_label">Exit</string>
+    <string name="none"></string>
+    <string name="title_activity_result">ResultActivity</string>
+
+</resources>
