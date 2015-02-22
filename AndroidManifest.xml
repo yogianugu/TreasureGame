@@ -14,7 +14,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.mobileapps.treasuregame.TreasureGameActivity"
+            android:name="com.mobileapps.game.TreasureGameActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,7 +23,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.mobileapps.treasuregame.ResultActivity"
+            android:name="com.mobileapps.game.ResultActivity"
             android:label="@string/title_activity_result" >
         </activity>
     </application>
